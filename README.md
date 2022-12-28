@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joke-A
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on sharing knowledge 
+- 👀 I’m an aspiring graphic designer and front-end developer
+- 🌱 I’m currently learning HTML, CSS & Javascript, and Adobe After Effects 
 - 📫 How to reach me: joke.avonds@hotmail.com
 
 <!---
